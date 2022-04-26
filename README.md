@@ -2,9 +2,9 @@
 
 ### A passionate programmer
 - 🔭 I’m currently working on @whitebay-ltd as a CTO
-- 💬 Ask me about PHP/Laravel/VueJs/Livewire...
-- 😄 The greatest teacher, failure is.
-- ⚡ Fun fact: reverse is better.
+- 💬 Ask me about PHP/Laravel/VueJs/Livewire
+- 😄 The greatest teacher, failure is
+- ⚡ Fun fact: reverse is better
 
 ### My Statistics
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=messi89&show_icons=true&locale=en&count_private=true" alt="messi89" />
