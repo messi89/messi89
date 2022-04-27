@@ -7,7 +7,10 @@
 - ⚡ Fun fact: reverse is better
 
 ### My Statistics
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=messi89&show_icons=true&locale=en&count_private=true" alt="messi89" />
+<a href="https://github.com/messi89"><img align="center" src="https://github-readme-stats.vercel.app/api?username=messi89&theme=github_dark&hide_border=true&show_icons=true&locale=en&count_private=true" alt="messi89" /></a>
+<a href="https://github.com/messi89"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messi89&theme=github_dark&hide_border=trur&layout=compact&locale=en&count_private=true" alt="messi89" /></a>
+
+
 <!--
 **messi89/messi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
